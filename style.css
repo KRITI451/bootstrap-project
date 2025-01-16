@@ -1,0 +1,31 @@
+.see{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top:20px ;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+.card-text{
+    display:flex ;
+    width: 100%;
+    
+
+}
+.text-body-secondary{
+    display: flex;
+ 
+}
+.col{
+    width: 40%;
+    margin-right: 20px;
+    
+}
+.carousel-item{
+    margin-top: 25px;
+    border-radius: 50px;
+}
+
